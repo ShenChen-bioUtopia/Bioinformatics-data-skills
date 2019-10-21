@@ -4,4 +4,4 @@ Bioinformatics data skills.（中文版）生物信息学数据技能。
 
 目录(已翻译)
 
-[第一章](第一章 如何学习生物信息学.md)
+[第一章 如何学习生物信息学](https://github.com/ShenChen-bioUtopia/Bioinformatics-data-skills/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6.md)
