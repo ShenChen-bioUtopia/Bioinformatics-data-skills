@@ -5,6 +5,6 @@ Bioinformatics data skills.（中文版）生物信息学数据技能。
 
 这几年技术进步非常快，生物大数据发展迅速，各类方法软件更替非常快，但是软件算法对于生物信息学而言只是工具，工具会变，但系统性的科学思维一直都在指导数据分析，所以这也是我推荐翻译这本书的最主要的原因。
 
-目录(已翻译)
+# 目录
 
 [第一章 如何学习生物信息学](https://github.com/ShenChen-bioUtopia/Bioinformatics-data-skills/blob/master/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6.md)
